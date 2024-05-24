@@ -23,9 +23,14 @@ ollama run tinyllama` y enter.
 `shell
 ctrl+D`
 
-## 7. consumir una API de IA generativa
+## 7. Consumir una API de IA generativa
 `curl http://localhost:11434/api/generate -d '{
   "model": "tinyllama",
   "prompt": Porque el cielo es azul?",
   "stream": false
 }'`
+
+## Respaldar el README
+- ` git add .` cualquier archivo lo guarda
+- `git commit -m "UPDATE README` actualiza los cambios que hagamos hecho 
+- ` git push -u origin main` sube el codigo de nuestra maquina a github

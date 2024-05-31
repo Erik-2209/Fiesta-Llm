@@ -30,7 +30,18 @@ ctrl+D`
   "stream": false
 }'`
 
-## Respaldar el README
+## 8. Respaldar el README
 - ` git add .` cualquier archivo lo guarda
 - `git commit -m "UPDATE README` actualiza los cambios que hagamos hecho 
 - ` git push -u origin main` sube el codigo de nuestra maquina a github
+
+## 9. Pagina para encontrar varios comandos en varios lemguajes 
+### W3schools
+
+## 10. descagar ollava
+`shell
+ollama pull llava` y enter.
+
+## 11. correr ollava
+`shell
+ollama run llava` y enter.
